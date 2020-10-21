@@ -7,3 +7,8 @@ The following approach is used:
 3.	Use sliding window algorithm with different sizes.
 4.  Obtain hot map from each window's vote
 5.  Draw rectangle based on hot map
+
+
+Sample Image:
+![alt text](https://i.ibb.co/G70k5C9/Untitled3.png)
+
