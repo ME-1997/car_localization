@@ -13,6 +13,8 @@ The following approach is used:
 [Non-vehicles dataset](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip)
 
 Sample Image:
+
+
 ![alt text](https://i.ibb.co/G70k5C9/Untitled3.png)
 
 
